@@ -483,4 +483,4 @@ shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
   express: ^4.16.4
-  helmet: latest
+  helmet: ^3.12.1
